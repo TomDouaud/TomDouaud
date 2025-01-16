@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdouaud" alt="tomdouaud" /></a> </p>
 
-- 🔭 I’m currently working on **Lot of project with UQAC and NAD**
+- 🔭 I’m currently working on **lots of projects with UQAC and NAD**
 
 - 🌱 I’m currently learning **Video Game programming**
 
