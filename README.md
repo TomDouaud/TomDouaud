@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom D.</h1>
-<h3 align="center">A French IT Developper in third year of computer sciences currently in a double diploma of Video Games at UQAC</h3>
+<h3 align="center">A first-year student in the Master's program in Video Games at UQAC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdouaud&label=Profile%20views&color=0e75b6&style=plastic" alt="tomdouaud" /> </p>
 
